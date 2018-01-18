@@ -1,6 +1,8 @@
 <p style="width: 100%;text-align: center;"><img src="https://raw.githubusercontent.com/asepmaulanaismail/laravel-mysql-docker/master/php-laravel-mysql-sample.png"></img></p>
 Ready-to-run Laravel 5.5 (fresh install) and MySQL with dockers.
 
+[See how to install Docker in Ubuntu](https://github.com/asepmaulanaismail/install-docker-ubuntu-shell-script)
+
 # Install
 
 ## Clone the repository
